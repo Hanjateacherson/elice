@@ -1,0 +1,14 @@
+package elice;
+
+public class Main {
+	public static void main(String args[]) {
+        // 지시사항 1번을 참고하여 코드를 작성하세요.
+        String subject = "You";
+        // 지시사항 2번을 참고하여 코드를 작성하세요.
+        String verb = "love";
+        // 지시사항 3번을 참고하여 코드를 작성하세요.
+        String object = "programming";
+        // 아래 코드는 채점을 위한 코드입니다. 수정하지 마세요!
+        System.out.println(subject + " " + verb + " " + object + ".");
+	}
+}
